@@ -3,7 +3,7 @@
 
 ![Yasir Abbas!](https://media.licdn.com/dms/image/D4D03AQHSbOvP79xZSw/profile-displayphoto-shrink_800_800/0/1706817806139?e=1718841600&v=beta&t=hk3gTP1e4H4N1nXV3OXLlhkYR8JktjD98cAuqe56RZ0 "Yasir Abbas!")
 
-
+![Yasir Sampling soil](/img/sampling_soil.jpg)
 
 #### Image me
 
