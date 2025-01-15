@@ -27,6 +27,20 @@ _Govt. Higher Secondary Schoool Bhawana_
 _Govt. High School Adlana Tehsil Bhawana District Chiniot_ 
 
 ---
+#### Fellowship Programs
+**Amal Career Prep Fellow** 
+
+_Amal Academy education startup funded by Stanford University that teaches professional skills to students and corporations_
+
+_August 2023- November 2023_
+
+**OMLAS Fellow**
+
+_OMLAS - One Million Leaders Asia_ I enhanced my leadership and professional capabilities.
+
+_April 2023-November 2023_
+
+---
 #### Publication
 - Abbas, Y., & Aslam, R. A. (2023). Potential of Untapped Renewable Energy Resources in Pakistan: Current Status and Future Prospects. Engineering Proceedings, 56(1), 108. (Published) [Link](https://www.mdpi.com/2673-4591/56/1/108)
 - Abbas, Y., *Khan, S. N., Arshad,A., Zahid, H., & Aslam, R. A.(2024). Geospatial modeling of groundwater system for sustainable management: A review, Submitted full chapter to Springer Nature
