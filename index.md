@@ -18,7 +18,7 @@ I have completed a BSc in Agricultural Engineering at the University of Agricult
 #### 🎓 Education
 
 **Bachelor in Agricultural Engineering**  
-_University of Agriculture Faisalabad_  
+_University of Agriculture Faisalabad, Pakistan_  
 
 **Fsc. Pre-Engineering**  
 _Govt. Higher Secondary Schoool Bhawana_  
@@ -27,6 +27,22 @@ _Govt. Higher Secondary Schoool Bhawana_
 _Govt. High School Adlana Tehsil Bhawana District Chiniot_ 
 
 ---
+#### Publication
+- Abbas, Y., & Aslam, R. A. (2023). Potential of Untapped Renewable Energy Resources in Pakistan: Current Status and Future Prospects. Engineering Proceedings, 56(1), 108. (Published) [Link](https://www.mdpi.com/2673-4591/56/1/108)
+- Abbas, Y., *Khan, S. N., Arshad,A., Zahid, H., & Aslam, R. A.(2024). Geospatial modeling of groundwater system for sustainable management: A review, Submitted full chapter to Springer Nature
+
+---
+#### Published Abstracts
+- *Abbas, Y., Khan, S.H., & Zaman, M., (2024) Integration of Remote Sensing and Advanced Crop Models to Improve Crop Yield Estimations: a review. International Conference on “Geo-Informatics for Water and Agricultural Resource Management (ICGW ARW)” Organized by Agricultural Remote Sensing Lab, UAF
+- *Abbas, Y., & Zahra, B.E., (2024) Role of Geo-informatics for Predicting Extreme Climate Changes. International Conference on “Geo-Informatics for Water and Agricultural Resource Management(ICGW ARW)” Organized by Agricultural Remote Sensing Lab, UAF
+- *Abbas, Y., Khan N.S., Ammar Aslam, R., Arslan, C., Farid, M. U., Iqbal, M., & Mehboob, A. (2023). Scope of HBV hydrological model in flood forecasting. International conference on precision and Sustainable Agriculture under Climate Change(IPSAC-2023). Khwaja Fareed University of Engineering and Information Technology (KFUEIT), Rahim Yar Khan, Pakistan. IPSAC-109
+- Aslam R. A., *Abbas Y. (2023). Suggesting options for sustainability of food production in Pakistan: Lessons from across the world. The 4th International Electronic Conference on Applied Sciences. sciforum-076506
+- *Abbas, Y., & Faheem, M., (2023). Sustainable options to minimize postharvest losses in Pakistan. Alliance for Modernizing African Agrifood Systems. Imagining African Agrifood Systems: Looking Forward. ASABE Engineering is Sustainable Future
+- *Abbas, Y., Faheem, & Ghous, B. (2023). Robotic Weed Control and Crop Improvement for Pakistan’s Sustainable Agriculture.  3rd International Conference on Scientific and Academic Research(ICSAR). AS-Proceedings, ISBN: 978-625-6530-75-1
+- *Abbas, Y., Khan, N.S., Saeed, R. M. A., Wardah and Saeed N. (2023). Development of modern poultry farm in Pakistan. International Conference on Sustainable Food Security Solutions CPEC consortium of universities, Hosted by Department of Agronomy (UAF), IAEE & RD (UAF) and ISHU, University of Karachi
+
+
+
 
 
 
