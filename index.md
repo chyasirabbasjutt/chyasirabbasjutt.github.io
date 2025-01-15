@@ -4,12 +4,14 @@
 
 #### Image me
 
-<img width="80" height="200" src="https://media.licdn.com/dms/image/D4D03AQHSbOvP79xZSw/profile-displayphoto-shrink_800_800/0/1706817806139?e=1718841600&v=beta&t=hk3gTP1e4H4N1nXV3OXLlhkYR8JktjD98cAuqe56RZ0">
+<img width="80" height="200" src="img/YASIR.jpg">
 
-#### I made Mapes on Acr GIS.
+#### Personal Statement
+To pursue my career as an outstanding professional in a challenging and dynamic environment where I can develop and boost my skills by complementing technical knowledge with practical experience. I like to be hard-working and try my best to be reliable in
+my daily business. I spent a challenging life and resulting enjoyed to overcoming these challenges which developed my confidence. I prefer to be consistent in the goals that I set for myself
 
 #### Introduction
-I am a Student of BSc Agricultural Engineering at the University of Agriculture Faisalabad. I am working on remote sensing and GIS. I have completed an internship in the Agriculture Remote Sensing Lab hosted by the University of Agriculture Faisalabad. First Of all, I learnt the Arc GIS software. I collected soil samples throughout the district of Chiniot in Pakistan. After I determined the  pH and EC of the soil. I made maps on Arc GIS. 
+I have completed a BSc in Agricultural Engineering at the University of Agriculture Faisalabad. I am working on remote sensing and GIS. I have completed an internship in the Agriculture Remote Sensing Lab hosted by the University of Agriculture Faisalabad. First of all, I learned about the Arc GIS software. I collected soil samples throughout the district of Chiniot in Pakistan. After I determined the  pH and EC of the soil. I made maps on Arc GIS. 
 
 
 
