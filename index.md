@@ -99,4 +99,5 @@ _April 2023-November 2023_
 #### Contact Information
 * [Gmail](yasirabbasuaf@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/chyasirabbas)
+* [Facebook](https://www.facebook.com/YasirAbbasUaf)
 * [GitHub](https://github.com/chyasirabbasjutt)
