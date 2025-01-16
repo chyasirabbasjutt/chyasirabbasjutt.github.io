@@ -86,7 +86,7 @@ _April 2023-November 2023_
 - Two days CPD training workshop on “Conceptual Hydrological Modelling” Dept. of Structures and Environmental Engineering, UAF on 23-24 January 2023
 - 2 hour  Movers virtual workshop on “Climate Action Level 2” on 13 August 2022 
 - 2 hour Movers virtual workshop on ‘SDG13: Climate Action Level 1” on 31 July 2022
-- One day seminar on “Mechanical Rice Transplanting And Practical De’monstration of Kubota Rice Transplanter“(1.0 CPD point) Dept. of  Farm Machinery and Power, UAF on 20 July 2022
+- One day seminar on “Mechanical Rice Transplanting And Practical Demonstration of Kubota Rice Transplanter“(1.0 CPD point) Dept. of  Farm Machinery and Power, UAF on 20 July 2022
 - One day PEC-CPD training workshop on “Waste-To-Energy Technologies”(1.0 CPD point) Dept. of Structures and Environmental Engineering, UAF on 24 May 2022
 - One day International seminar & training workshop on “World Water Day 2022”(1.0 CPD point) Dept. of Irrigation  and Drainage, UAF on 30 March 2022
 
@@ -98,7 +98,20 @@ _April 2023-November 2023_
 
 ---
 #### Extracurricular Activities
-- 
+- Certificate for participating in “Communication Skill Session” held by Rotaract Club of Government First Grade College Rl District 3191  on 17 December 2023
+- Certificate for participating in the webinar on “Legal Research and Writing” held by Dynamic Law Association on 16 April 2023
+- Certificate for participating in the session ‘History of Embroidery & Basic Stitches” held by Leading Star on 5th March 2023
+- 03 days workshop “SWOT Analysis” Organized by The Success Map and Youth Media Network Pakistan on 03-05 March 2023
+- Certificate of participating in the session “Secrets to Productive Life” Organized by Leading Star on 1ST March 2023
+- Certificate for participation in the session “Importance of Soft Skills in Personal & Professional Life” Organized by Leading Star on 24th February 2023
+- Certificate of participation session “Personality Grooming” Organized by Leading Star on 15 January 2023
+- Certification of participation in “Youth Digital Quiz Competition” Organized by Youth Media Network on 13 January 2023
+- One day webinar on “Unhealthy Emotional Eating” Organized on Urban Unicorn Pakistan on 23 April 2022
+- Certificate of participation in “The Qualitative Living Webinar” Organized by The Success Map on 11 March 2022
+- Certificate of participation in “The LinkedIn Training Workshop” Organized by Pakistan Eales Foundation on 06 March 2022
+- One day webinar on “Role of Nutrition during Covid Pandemic” Organized by Crescent Student Union on 05 March 2022
+- Certificate of participation session on the session “Creative English Writing” Organized by Pakistan Eales Foundation on 20 November 2021
+  
 ---
 #### Contact Information
 * [Gmail](yasirabbasuaf@gmail.com)
