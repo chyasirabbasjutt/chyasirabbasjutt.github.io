@@ -1,4 +1,4 @@
 name: null
 title: null
-logo: img/YASIR.jpg
+logo: <img width="120" height="200" src="img/YASIR.jpg">
 theme: jekyll-theme-minimal
