@@ -27,6 +27,7 @@ _Govt. Higher Secondary Schoool Bhawana_
 _Govt. High School Adlana Tehsil Bhawana District Chiniot_ 
 
 ---
+
 #### Summer School Participation Online
 **School on Strategies for Adapting to and Mitigating the Effects of
 Climate Change in the Agricultural Sector**
@@ -56,10 +57,12 @@ _April 2023-November 2023_
 
 **To determine the Ec and pH of District Chiniot by using Arc GIS**
 - In this research project to determine the EC and Ph of district Chiniot. Firstly, I collected soil samples of Chiniot and then made maps by Arc GIS.
+
 ---
 #### Publication
 - Abbas, Y., & Aslam, R. A. (2023). Potential of Untapped Renewable Energy Resources in Pakistan: Current Status and Future Prospects. Engineering Proceedings, 56(1), 108. (Published) [Link](https://www.mdpi.com/2673-4591/56/1/108)
 - Abbas, Y., *Khan, S. N., Arshad,A., Zahid, H., & Aslam, R. A.(2024). Geospatial modeling of groundwater system for sustainable management: A review, Submitted full chapter to Springer Nature
+
 ---
 #### Published Abstracts
 - *Abbas, Y., Khan, S.H., & Zaman, M., (2024) Integration of Remote Sensing and Advanced Crop Models to Improve Crop Yield Estimations: a review. International Conference on “Geo-Informatics for Water and Agricultural Resource Management (ICGW ARW)” Organized by Agricultural Remote Sensing Lab, UAF
@@ -69,6 +72,7 @@ _April 2023-November 2023_
 - *Abbas, Y., & Faheem, M., (2023). Sustainable options to minimize postharvest losses in Pakistan. Alliance for Modernizing African Agrifood Systems. Imagining African Agrifood Systems: Looking Forward. ASABE Engineering is Sustainable Future
 - *Abbas, Y., Faheem, & Ghous, B. (2023). Robotic Weed Control and Crop Improvement for Pakistan’s Sustainable Agriculture.  3rd International Conference on Scientific and Academic Research(ICSAR). AS-Proceedings, ISBN: 978-625-6530-75-1
 - *Abbas, Y., Khan, N.S., Saeed, R. M. A., Wardah and Saeed N. (2023). Development of modern poultry farm in Pakistan. International Conference on Sustainable Food Security Solutions CPEC consortium of universities, Hosted by Department of Agronomy (UAF), IAEE & RD (UAF) and ISHU, University of Karachi
+
 ---
 #### Conferences/Training Workshops / Webinars Attended
 - One day CPD activity on “ How to Write an Effective Student Research Proposal & Thesis/ Final Year Project Report” (1.0 CPD point) Organized by Department of  Energy Systems Engineering, UAF on 10 January 2024
