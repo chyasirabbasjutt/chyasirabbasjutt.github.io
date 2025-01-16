@@ -69,7 +69,20 @@ _April 2023-November 2023_
 - *Abbas, Y., & Faheem, M., (2023). Sustainable options to minimize postharvest losses in Pakistan. Alliance for Modernizing African Agrifood Systems. Imagining African Agrifood Systems: Looking Forward. ASABE Engineering is Sustainable Future
 - *Abbas, Y., Faheem, & Ghous, B. (2023). Robotic Weed Control and Crop Improvement for Pakistan’s Sustainable Agriculture.  3rd International Conference on Scientific and Academic Research(ICSAR). AS-Proceedings, ISBN: 978-625-6530-75-1
 - *Abbas, Y., Khan, N.S., Saeed, R. M. A., Wardah and Saeed N. (2023). Development of modern poultry farm in Pakistan. International Conference on Sustainable Food Security Solutions CPEC consortium of universities, Hosted by Department of Agronomy (UAF), IAEE & RD (UAF) and ISHU, University of Karachi
-
+---
+#### Conferences/Training Workshops / Webinars Attended
+- One day CPD activity on “ How to Write an Effective Student Research Proposal & Thesis/ Final Year Project Report” (1.0 CPD point) Organized by Department of  Energy Systems Engineering, UAF on 10 January 2024
+- International Conference on “Fodder Production in Climate Shift Paradigm: Better Nutrition for Better Dairy Production” Institute of Plant Breeding and Biotechnology, MNS University of Agriculture, Multan.  Attended virtually on 29-30 November 2023
+- The international virtual conference on “Alliance for Modernizing African International Conference “Agrifood Systems Conference Imagining African Agrifood Systems: Looking Forward” ASABE American Society of Agricultural and Biological Engineers. Attend virtually on 14-17 November 2023
+- Workshop on “Hands-on Experience on Developing CubeSats: From Satellite to Classroom-Based Educational Tool”(1.0 CPD point) Dept. of Irrigation  and Drainage, UAF on 09 February 2023
+- Two days Hands on CPD training workshop “3-D Scanning and Printing for Design of Agricultural Machinery”(1.0 CPD point) Dept. of  Farm Machinery and Power, UAF on 18-19 May 2023
+- Two days CPD training workshop on “Conceptual Hydrological Modelling” Dept. of Structures and Environmental Engineering, UAF on 23-24 January 2023
+- 2 hour  Movers virtual workshop on “Climate Action Level 2” on 13 August 2022 
+- 2 hour Movers virtual workshop on ‘SDG13: Climate Action Level 1” on 31 July 2022
+- One day seminar on “Mechanical Rice Transplanting And Practical De’monstration of Kubota Rice Transplanter“(1.0 CPD point) Dept. of  Farm Machinery and Power, UAF on 20 July 2022
+- One day PEC-CPD training workshop on “Waste-To-Energy Technologies”(1.0 CPD point) Dept. of Structures and Environmental Engineering, UAF on 24 May 2022
+- One day International seminar & training workshop on “World Water Day 2022”(1.0 CPD point) Dept. of Irrigation  and Drainage, UAF on 30 March 2022 
+ 
 
 
 
