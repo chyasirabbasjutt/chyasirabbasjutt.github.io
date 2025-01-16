@@ -77,6 +77,7 @@ _April 2023-November 2023_
 
 ---
 #### Conferences/Training Workshops / Webinars Attended
+- Certificate of participation to attend webinar on “Energy Efficiency & Sustainable Communities” Organized by Eco Revival Pakistan on 05 June 2024
 - One day CPD activity on “ How to Write an Effective Student Research Proposal & Thesis/ Final Year Project Report” (1.0 CPD point) Organized by Department of  Energy Systems Engineering, UAF on 10 January 2024
 - Certification of Participation in 3rd International Conference on “Scientific and Academic Research” Organized by All Sciences Academy at konya/Turkey on 25-26 December 2023
 - International Conference on “Fodder Production in Climate Shift Paradigm: Better Nutrition for Better Dairy Production” Institute of Plant Breeding and Biotechnology, MNS University of Agriculture, Multan.  Attended virtually on 29-30 November 2023
@@ -123,6 +124,9 @@ _April 2023-November 2023_
 ---
 #### Scholarship
 - Awarded HEC (Higher Education Commission) Scholarship for undergraduate program
+---
+#### Online Short Courses and Certifications
+
 ---
 #### Contact Information
 * [Gmail](yasirabbasuaf@gmail.com)
