@@ -161,6 +161,13 @@ _April 2023-November 2023_
 - [Certificate Course on "English for Career Development" from the University of Pennsylvania issued 07, December 2023](https://coursera.org/share/3248a3a992f2c170f99a65f6b91cd21f)
 
 ---
+#### Activities & Interest
+- Book Reading
+- Research Project
+- Managing Events
+- Playing CHESS
+
+---
 #### Contact Information
 * [Gmail](yasirabbasuaf@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/chyasirabbas)
