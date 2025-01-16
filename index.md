@@ -113,6 +113,17 @@ _April 2023-November 2023_
 - Certificate of participation session on the session “Creative English Writing” Organized by Pakistan Eales Foundation on 20 November 2021
   
 ---
+#### Communication Skills
+- I am good at communication and interpersonal skills, with the ability to liaise effectively and professionally with individuals at all levels. I have been a Chemical Engineer, having belief in my ability to work with different personalities and adapt quickly to different Engineering settings.
+
+---
+#### Awards
+- Awarded laptop from the Government of Pakistan on a merit base.
+- Certificate of achievement in best management business training from Warner & Spencer. In leading Star.
+---
+#### Scholarships
+- Awarded HEC (Higher Education Commission) Scholarship for undergraduate program
+---
 #### Contact Information
 * [Gmail](yasirabbasuaf@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/chyasirabbas)
