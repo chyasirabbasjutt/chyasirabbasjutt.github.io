@@ -124,6 +124,23 @@ _April 2023-November 2023_
 - I am good at communication and interpersonal skills, with the ability to liaise effectively and professionally with individuals at all levels. I have been an Agricultural Engineer, having belief in my ability to work with different personalities and adapt quickly to different Engineering settings.
 
 ---
+#### Technical Skills
+- Arc GIS                          
+- ERDAS Imagine                     
+- Crop WAT                       
+- Minitab                         
+- Auto Cad                        
+- R Programming ( Intermediate)
+- Python Programming ( Intermediate) 
+---
+#### Core Strengths
+- Mapping
+- Irrigation Scheduling
+- Resource Management
+- Wastewater Treatment
+- Environment Assessment
+- Surveying & levelling
+- Surveying & levelling   
 #### Awards
 - Awarded laptop from the Government of Pakistan on a merit base.
 - Certificate of achievement in best management business training from Warner & Spencer. In leading Star.
