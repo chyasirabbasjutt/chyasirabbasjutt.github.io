@@ -121,7 +121,7 @@ _April 2023-November 2023_
 - Awarded laptop from the Government of Pakistan on a merit base.
 - Certificate of achievement in best management business training from Warner & Spencer. In leading Star.
 ---
-#### Scholarships
+#### Scholarship
 - Awarded HEC (Higher Education Commission) Scholarship for undergraduate program
 ---
 #### Contact Information
