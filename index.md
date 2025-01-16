@@ -78,6 +78,7 @@ _April 2023-November 2023_
 ---
 #### Conferences/Training Workshops / Webinars Attended
 - One day CPD activity on “ How to Write an Effective Student Research Proposal & Thesis/ Final Year Project Report” (1.0 CPD point) Organized by Department of  Energy Systems Engineering, UAF on 10 January 2024
+- Certification of Participation in 3rd International Conference on “Scientific and Academic Research” Organized by All Sciences Academy at konya/Turkey on 25-26 December 2023
 - International Conference on “Fodder Production in Climate Shift Paradigm: Better Nutrition for Better Dairy Production” Institute of Plant Breeding and Biotechnology, MNS University of Agriculture, Multan.  Attended virtually on 29-30 November 2023
 - The international virtual conference on “Alliance for Modernizing African International Conference “Agrifood Systems Conference Imagining African Agrifood Systems: Looking Forward” ASABE American Society of Agricultural and Biological Engineers. Attend virtually on 14-17 November 2023
 - Workshop on “Hands-on Experience on Developing CubeSats: From Satellite to Classroom-Based Educational Tool”(1.0 CPD point) Dept. of Irrigation  and Drainage, UAF on 09 February 2023
@@ -95,6 +96,9 @@ _April 2023-November 2023_
 - Sustainable Options to Minimize Postharvest Losses in Pakistan Presented in Conference Alliance for Modernizing African Agrifood Systems. Imagining African Agrifood Systems: Looking Forward. ASABE Engineering is Sustainable Future on 15 November 2023
 - Improving Fodder Processing and Conservation Techniques for Sustainable Livestock Nutrition and Agricultural Productivity in Pakistan. Presented in International Conference on Fodder Production in Climate Shift Paradigm: Better Nutrition for Better Dairy Production Institute of Plant Breeding and Biotechnology, MNS University of Agriculture, Multan on 29 November 2023
 
+---
+#### Extracurricular Activities
+- 
 ---
 #### Contact Information
 * [Gmail](yasirabbasuaf@gmail.com)
