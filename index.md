@@ -80,7 +80,9 @@ _April 2023-November 2023_
 
 ---
 #### Conferences/Training Workshops / Webinars Attended
+- Certificate of Participation "How to write case study" from Youth Organization Pakistan on 03 December 2024
 - Certificate of participation Training on “Introduction to Remote Sensing and hands-on Disaster Management Applications” Organized by EOcollege and European Union on 28 October - 27 November 2024
+- Certificate of Participation "Smart Future: Machine Learning Workshop" from Microsoft Tech Hub on 22,23,24 November 2024
 - Certificate of participation to attend webinar on “Energy Efficiency & Sustainable Communities” Organized by Eco Revival Pakistan on 05 June 2024
 - One day CPD activity on “ How to Write an Effective Student Research Proposal & Thesis/ Final Year Project Report” (1.0 CPD point) Organized by Department of  Energy Systems Engineering, UAF on 10 January 2024
 - Certification of Participation in 3rd International Conference on “Scientific and Academic Research” Organized by All Sciences Academy at konya/Turkey on 25-26 December 2023
@@ -130,6 +132,8 @@ _April 2023-November 2023_
 - Awarded HEC (Higher Education Commission) Scholarship for undergraduate program
 ---
 #### Online Short Courses and Certifications
+- Certificate Course on "Climate data Analysis With Python" from UK Centre for Ecology & Hydrology (UKCEH)UK Centre for Ecology & Hydrology (UKCEH) Issued Dec 2024
+- 
 
 ---
 #### Contact Information
