@@ -118,6 +118,13 @@ _April 2023-November 2023_
 - I am good at communication and interpersonal skills, with the ability to liaise effectively and professionally with individuals at all levels. I have been an agricultural engineer, and I believe in working with different personalities and adapting quickly to different engineering settings.
 
 ---
+#### Language
+- English
+- Urdu
+- Punjabi
+- Saraiki
+
+---
 #### Technical Skills
 - Arc GIS                          
 - ERDAS Imagine                     
