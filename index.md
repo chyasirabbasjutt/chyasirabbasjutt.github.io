@@ -88,6 +88,7 @@ _April 2023-November 2023_
 - One day seminar on “Mechanical Rice Transplanting And Practical De’monstration of Kubota Rice Transplanter“(1.0 CPD point) Dept. of  Farm Machinery and Power, UAF on 20 July 2022
 - One day PEC-CPD training workshop on “Waste-To-Energy Technologies”(1.0 CPD point) Dept. of Structures and Environmental Engineering, UAF on 24 May 2022
 - One day International seminar & training workshop on “World Water Day 2022”(1.0 CPD point) Dept. of Irrigation  and Drainage, UAF on 30 March 2022
+
 ---
 #### Presentation
 - Sustainable Options to Minimize Postharvest Losses in Pakistan Presented in Conference Alliance for Modernizing African Agrifood Systems. Imagining African Agrifood Systems: Looking Forward. ASABE Engineering is Sustainable Future on 15 November 2023
