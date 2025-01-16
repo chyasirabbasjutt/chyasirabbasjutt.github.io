@@ -134,7 +134,9 @@ _April 2023-November 2023_
 - Wastewater Treatment
 - Environment Assessment
 - Surveying & levelling
-- Surveying & levelling   
+- Surveying & levelling
+
+--- 
 #### Awards
 - Awarded laptop from the Government of Pakistan on a merit base.
 - Certificate of achievement in best management business training from Warner & Spencer. In leading Star.
