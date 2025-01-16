@@ -56,11 +56,13 @@ _April 2023-November 2023_
 - This study aims to bridge this gap by leveraging remote sensing and advanced geospatial models to predict groundwater quality indicators (SAR, RSC, EC) at a fine resolution of 1 km² in Punjab, Pakistan. The research objectives encompass model development, evaluation, and uncertainty quantification to ensure reliable predictions. In this study, we used machine learning models like SVM, LRM, RF and XGBoost models for prediction results.
 
 **To determine the Ec and pH of District Chiniot by using Arc GIS**
+
 - In this research project to determine the EC and Ph of district Chiniot. Firstly, I collected soil samples of Chiniot and then made maps by Arc GIS.
 
 ---
 #### Publication
 - Abbas, Y., & Aslam, R. A. (2023). Potential of Untapped Renewable Energy Resources in Pakistan: Current Status and Future Prospects. Engineering Proceedings, 56(1), 108. (Published) [Link](https://www.mdpi.com/2673-4591/56/1/108)
+
 - Abbas, Y., *Khan, S. N., Arshad,A., Zahid, H., & Aslam, R. A.(2024). Geospatial modeling of groundwater system for sustainable management: A review, Submitted full chapter to Springer Nature
 
 ---
