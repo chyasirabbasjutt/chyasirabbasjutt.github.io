@@ -115,7 +115,7 @@ _April 2023-November 2023_
   
 ---
 #### Communication Skills
-- I am good at communication and interpersonal skills, with the ability to liaise effectively and professionally with individuals at all levels. I have been an Agricultural Engineer, having belief in my ability to work with different personalities and adapt quickly to different Engineering settings.
+- I am good at communication and interpersonal skills, with the ability to liaise effectively and professionally with individuals at all levels. I have been an agricultural engineer, and I believe in working with different personalities and adapting quickly to different engineering settings.
 
 ---
 #### Technical Skills
