@@ -91,20 +91,11 @@ _April 2023-November 2023_
 
 ---
 #### Presentation
-- GIS Uses for Monitoring Soil Quality in Chiniot and Assessing pH and EC for Crop Productivity. Poster Presented at International Conference on “Geo-Informatics for Water and Agricultural Resource Management(ICGW ARW)” Organized by Agricultural Remote Sensing Lab, UAF on 24-26 April 2024  [Link](img/Yasir Abbas poster presentation.pdf)
+- GIS Uses for Monitoring Soil Quality in Chiniot and Assessing pH and EC for Crop Productivity. Poster Presented at International Conference on “Geo-Informatics for Water and Agricultural Resource Management(ICGW ARW)” Organized by Agricultural Remote Sensing Lab, UAF on 24-26 April 2024 
 - Sustainable Options to Minimize Postharvest Losses in Pakistan Presented in Conference Alliance for Modernizing African Agrifood Systems. Imagining African Agrifood Systems: Looking Forward. ASABE Engineering is Sustainable Future on 15 November 2023
 - Improving Fodder Processing and Conservation Techniques for Sustainable Livestock Nutrition and Agricultural Productivity in Pakistan. Presented in International Conference on Fodder Production in Climate Shift Paradigm: Better Nutrition for Better Dairy Production Institute of Plant Breeding and Biotechnology, MNS University of Agriculture, Multan on 29 November 2023
 
-
- 
-
-
-
-
-
-
-
-
+---
 #### Contact Information
 * [Gmail](yasirabbasuaf@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/chyasirabbas)
