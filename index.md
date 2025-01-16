@@ -4,7 +4,7 @@
 
 #### Image me
 
-<img width="80" height="200" src="img/YASIR.jpg">
+<img width="120" height="200" src="img/YASIR.jpg">
 
 #### Personal Statement
 To pursue my career as an outstanding professional in a challenging and dynamic environment where I can develop and boost my skills by complementing technical knowledge with practical experience. I like to be hard-working and try my best to be reliable in
@@ -27,6 +27,15 @@ _Govt. Higher Secondary Schoool Bhawana_
 _Govt. High School Adlana Tehsil Bhawana District Chiniot_ 
 
 ---
+#### Summer School Participation Online
+**School on Strategies for Adapting to and Mitigating the Effects of
+Climate Change in the Agricultural Sector**
+
+_Universitat de VicUniversitat Central de Catalunya_
+
+_24,25,26 April 2024_
+
+---
 #### Fellowship Programs
 **Amal Career Prep Fellow** 
 
@@ -41,10 +50,16 @@ _OMLAS - One Million Leaders Asia_ I enhanced my leadership and professional cap
 _April 2023-November 2023_
 
 ---
+#### Research Project
+**Geospatial Modeling For Reconstructing High-Resolution (1Km) Groundwater Quality Data- Scarce Agro-Urbanized Regions in Punjab, Pakistan**
+- This study aims to bridge this gap by leveraging remote sensing and advanced geospatial models to predict groundwater quality indicators (SAR, RSC, EC) at a fine resolution of 1 km² in Punjab, Pakistan. The research objectives encompass model development, evaluation, and uncertainty quantification to ensure reliable predictions. In this study, we used machine learning models like SVM, LRM, RF and XGBoost models for prediction results.
+
+**To determine the Ec and pH of District Chiniot by using Arc GIS**
+- In this research project to determine the EC and Ph of district Chiniot. Firstly, I collected soil samples of Chiniot and then made maps by Arc GIS.
+---
 #### Publication
 - Abbas, Y., & Aslam, R. A. (2023). Potential of Untapped Renewable Energy Resources in Pakistan: Current Status and Future Prospects. Engineering Proceedings, 56(1), 108. (Published) [Link](https://www.mdpi.com/2673-4591/56/1/108)
 - Abbas, Y., *Khan, S. N., Arshad,A., Zahid, H., & Aslam, R. A.(2024). Geospatial modeling of groundwater system for sustainable management: A review, Submitted full chapter to Springer Nature
-
 ---
 #### Published Abstracts
 - *Abbas, Y., Khan, S.H., & Zaman, M., (2024) Integration of Remote Sensing and Advanced Crop Models to Improve Crop Yield Estimations: a review. International Conference on “Geo-Informatics for Water and Agricultural Resource Management (ICGW ARW)” Organized by Agricultural Remote Sensing Lab, UAF
