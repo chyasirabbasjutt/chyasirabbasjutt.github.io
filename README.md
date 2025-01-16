@@ -1,2 +1,2 @@
 # chyasirabbasjutt.github.io
-My Personal GitHub Portlio page.
+My Personal GitHub Portfolio page.
