@@ -177,5 +177,5 @@ _April 2023-November 2023_
 
 ---
 #### ESIIL Data Short Course on Earth Data Science Work
-- University of Agriculture map
-<embed type="text/html" src="html/uaf.html" width="600" Height="600"
+#### University of Agriculture map
+<embed type="text/html" src="html/uaf.html" width="600" Height="600">
