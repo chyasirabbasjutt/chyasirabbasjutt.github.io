@@ -154,10 +154,6 @@ _April 2023-November 2023_
 - Awarded HEC (Higher Education Commission) Scholarship for undergraduate program
 
 ---
-#### ESIIL Data Short Course on Earth Data Science Work
-- [University of Agriculture map](
-
----
 #### Online Short Courses and Certifications
 - ESIIL Data Short Course on Earth Data Science
 - [Certificate Course on "Climate data Analysis With Python" from UK Centre for Ecology & Hydrology (UKCEH)UK Centre for Ecology & Hydrology (UKCEH) Issued Dec 2024](https://www.linkedin.com/posts/chyasirabbas_climate-data-analysis-with-python-activity-7278684768500617216-eUqZ/)
@@ -178,3 +174,8 @@ _April 2023-November 2023_
 * [LinkedIn](https://www.linkedin.com/in/chyasirabbas)
 * [Facebook](https://www.facebook.com/YasirAbbasUaf)
 * [GitHub](https://github.com/chyasirabbasjutt)
+
+---
+#### ESIIL Data Short Course on Earth Data Science Work
+- University of Agriculture map
+<embed type="text/html" src="html/uaf.html" width="600" Height="600"
