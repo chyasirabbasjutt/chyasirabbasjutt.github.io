@@ -132,7 +132,8 @@ _April 2023-November 2023_
 - Minitab                         
 - Auto Cad                        
 - R Programming ( Intermediate)
-- Python Programming ( Intermediate) 
+- Python Programming ( Intermediate)
+
 ---
 #### Core Strengths
 - Mapping
