@@ -46,8 +46,7 @@ _April 2023-November 2023_
 
 ---
 #### Research Project
-**Geospatial Modeling For Reconstructing High-Resolution (1Km) Groundwater Quality Data- Scarce Agro-Urbanized Regions in Punjab, Pakistan**
-- This study aims to bridge this gap by leveraging remote sensing and advanced geospatial models to predict groundwater quality indicators (SAR, RSC, EC) at a fine resolution of 1 km² in Punjab, Pakistan. The research objectives encompass model development, evaluation, and uncertainty quantification to ensure reliable predictions. In this study, we used machine learning models like SVM, LRM, RF and XGBoost models for prediction results.
+
 
 **To determine the Ec and pH of District Chiniot by using Arc GIS**
 
