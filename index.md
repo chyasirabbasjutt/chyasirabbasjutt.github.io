@@ -154,9 +154,12 @@ _April 2023-November 2023_
 
 ---
 #### Online Short Courses and Certifications
-- ESIIL Data Short Course on Earth Data Science
+- [Certificate Course on"Global Environmental Management" from Technical University of Denmark (DTU)](https://coursera.org/share/b8ece70dfc391ce18c0a243f8f99c1cc)
+- [Certificate Course on"How to write a research paper" from The University of Faisalabad](https://coursera.org/share/0b9207af315c56fb3008e9dbc7d4e69b)
+- [Certificate Course on"Introduction to GIS Mapping" from the University of Toronto](https://coursera.org/share/7b8860a7d11f0702c0e94609791f913f)
+- [Certificate Course on "ESIIL Data Short Course on Earth Data Science" from University of Colorado Boulder](https://www.linkedin.com/posts/esiil_congratulations-to-yasir-abbas-for-completing-activity-7288235627731398656-1VLq?utm_source=share&utm_medium=member_desktop&rcm=ACoAADw8vPUBPaonPFQNRKzTOH0hbzwPb-4iq1M)
 - [Certificate Course on "Climate data Analysis With Python" from UK Centre for Ecology & Hydrology (UKCEH)UK Centre for Ecology & Hydrology (UKCEH) Issued Dec 2024](https://www.linkedin.com/posts/chyasirabbas_climate-data-analysis-with-python-activity-7278684768500617216-eUqZ/)
-- [Certificate Course on " Land in Focus - Basics of Remote Sensing" from EO College Issued 21 November 2024](https://www.linkedin.com/posts/chyasirabbas_land-in-focus-basics-of-remote-sensing-activity-7265479479760703489-1r5j/)
+- [Certificate Course on " Land in Focus - Basics of Remote Sensing" from EO College Issued 21 November 2024](https://eo-college.org/verify/780F672B4D-77EB95DB89-733D87964E/)
 - [Certificate Course on "Advanced Course on Urban Heritage Strategies to Water Challenges" from IHE Delft Institute for Water Education, from June 17 to 21, 2024](https://www.linkedin.com/posts/chyasirabbas_nxr-activity-7235555787010375680-T58N/)
 - [Certificate Course on "English for Career Development" from the University of Pennsylvania issued 07, December 2023](https://coursera.org/share/3248a3a992f2c170f99a65f6b91cd21f)
 
