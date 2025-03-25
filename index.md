@@ -73,6 +73,7 @@ _April 2023-November 2023_
 
 ---
 #### Conferences/Training Workshops / Webinars Attended
+- Certificate of participating in the webinar " MDPI World Meteorological Day" from MDPI on 24 March 2025 
 - Certificate of Participation "How to write case study" from Youth Organization Pakistan on 03 December 2024
 - Certificate of participation Training on “Introduction to Remote Sensing and hands-on Disaster Management Applications” Organized by EOcollege and European Union on 28 October - 27 November 2024
 - Certificate of Participation "Smart Future: Machine Learning Workshop" from Microsoft Tech Hub on 22,23,24 November 2024
