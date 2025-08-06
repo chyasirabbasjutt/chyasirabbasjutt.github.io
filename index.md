@@ -6,7 +6,7 @@ my daily business. I spent a challenging life and resulting enjoyed to overcomin
 
 ---
 #### Introduction
-I have completed a BSc in Agricultural Engineering at the University of Agriculture Faisalabad. I am working on remote sensing and GIS. I have completed an internship in the Agriculture Remote Sensing Lab hosted by the University of Agriculture Faisalabad. First of all, I learned about the Arc GIS software. I collected soil samples throughout the district of Chiniot in Pakistan. After I determined the  pH and EC of the soil. I made maps on Arc GIS. 
+I have completed a BSc in Agricultural Engineering at the University of Agriculture, Faisalabad. I am working on remote sensing and GIS. I have completed an internship in the Agriculture Remote Sensing Lab hosted by the University of Agriculture Faisalabad. First of all, I learned about the Arc GIS software. I collected soil samples throughout the district of Chiniot in Pakistan. After I determined the  pH and EC of the soil. I made maps on Arc GIS. 
 
 ---
 #### 🎓 Education
@@ -15,7 +15,7 @@ I have completed a BSc in Agricultural Engineering at the University of Agricult
 _University of Agriculture Faisalabad, Pakistan_  
 
 **Fsc. Pre-Engineering**  
-_Govt. Higher Secondary Schoool Bhawana_  
+_Govt. Higher Secondary School Bhawana_  
 
 **Matric Science**  
 _Govt. High School Adlana Tehsil Bhawana District Chiniot_ 
@@ -47,6 +47,8 @@ _April 2023-November 2023_
 ---
 #### Research Project
 
+**Geospatial Modeling For Reconstructing High-Resolution (1Km) Groundwater Quality Data- Scarce Agro-Urbanized Regions in Punjab, Pakistan**
+- This study aims to bridge this gap by leveraging remote sensing and advanced geospatial models to predict groundwater quality indicators (SAR, RSC, EC) at a fine resolution of 1 km² in Punjab, Pakistan. The research objectives encompass model development, evaluation,   and uncertainty quantification to ensure reliable predictions.
 
 **To determine the Ec and pH of District Chiniot by using Arc GIS**
 
