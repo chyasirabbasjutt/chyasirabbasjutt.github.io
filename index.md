@@ -157,6 +157,13 @@ _April 2023-November 2023_
 
 ---
 #### Online Short Courses and Certifications
+- [Certificate Course on "Introduction to Climpact: Generating Climate Indices to Support Climate Services" from the WMO Education and Training Programme issued 02, November 2025](https://etrp.wmo.int/badges/badge.php?hash=a940a77c6079265ca52a1e54d5f6a6056e8779a6)
+- [Certificate Course on "An Introduction to Groundwater Level Monitoring" from the UCAR - The University Corporation for Atmospheric Research issued 25, October 2025](https://drive.google.com/file/d/109BzXSVm6oYUj3PbvajhVlMs4NC52tjT/view?usp=sharing)
+- [Certificate Course on "Green Skills for a Sustainable Future" from the Independent University, Bangladesh issued 17, October 2025](https://drive.google.com/file/d/1mLJV-sXOU44Toxp3ZEB3i4n_kx_MrHC7/view)
+- [Certificate Course on "IWRM for climate resilience" from the Cap-Net Virtual Campus issued 18, October 2025](https://campus.capnet.org/certificates/d46c36888a7c454d89830af4889d64e9)
+- [Certificate Course on "Integrated Drought Management: Monitoring and Early Warning" from the Cap-Net Virtual Campus issued 25, October 2025](https://campus.capnet.org/certificates/84d817198e9a46c2b01422f2db455006)
+- [Certificate Course on "Application of GIS in Conservation Mapping (Module 2)" from the RCMRD- Regional Centre for Mapping of Resources for Development issued 22, August 2025](https://drive.google.com/file/d/1W9v_4xmD9-iT3VvHtafk153h7OqUMRTt/view?usp=sharing)
+- [Certificate on "IT Specialist - Python" from the certiport issued February, 2025](https://drive.google.com/file/d/1L6kP90EPV_2QKEJvoL57FyHiFwUsjvTv/view?usp=sharing)
 - [Certificate Course on"Global Environmental Management" from Technical University of Denmark (DTU)](https://coursera.org/share/b8ece70dfc391ce18c0a243f8f99c1cc)
 - [Certificate Course on"How to write a research paper" from The University of Faisalabad](https://coursera.org/share/0b9207af315c56fb3008e9dbc7d4e69b)
 - [Certificate Course on"Introduction to GIS Mapping" from the University of Toronto](https://coursera.org/share/7b8860a7d11f0702c0e94609791f913f)
@@ -165,7 +172,6 @@ _April 2023-November 2023_
 - [Certificate Course on " Land in Focus - Basics of Remote Sensing" from EO College Issued 21 November 2024](https://eo-college.org/verify/780F672B4D-77EB95DB89-733D87964E/)
 - [Certificate Course on "Advanced Course on Urban Heritage Strategies to Water Challenges" from IHE Delft Institute for Water Education, from June 17 to 21, 2024](https://www.linkedin.com/posts/chyasirabbas_nxr-activity-7235555787010375680-T58N/)
 - [Certificate Course on "English for Career Development" from the University of Pennsylvania issued 07, December 2023](https://coursera.org/share/3248a3a992f2c170f99a65f6b91cd21f)
-
 ---
 #### Activities & Interest
 - Book Reading
